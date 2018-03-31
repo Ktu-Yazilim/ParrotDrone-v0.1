@@ -31,22 +31,22 @@
             android:visibility="invisible" />
 
         <EditText
-            android:id="@+id/Etsag"
-            android:layout_width="130dp"
-            android:layout_height="32dp"
-            android:layout_alignTop="@+id/Etyukari"
-            android:layout_centerHorizontal="true"
-            android:background="@android:color/holo_red_light"
-            android:ems="10"
-            android:visibility="invisible" />
-
-        <EditText
             android:id="@+id/EtYukari2"
             android:layout_width="27dp"
             android:layout_height="133dp"
             android:layout_above="@+id/Etsag"
             android:layout_toEndOf="@+id/EtSol"
             android:layout_toRightOf="@+id/EtSol"
+            android:background="@android:color/holo_red_light"
+            android:ems="10"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/Etsag"
+            android:layout_width="130dp"
+            android:layout_height="32dp"
+            android:layout_alignTop="@+id/Etyukari"
+            android:layout_centerHorizontal="true"
             android:background="@android:color/holo_red_light"
             android:ems="10"
             android:visibility="invisible" />

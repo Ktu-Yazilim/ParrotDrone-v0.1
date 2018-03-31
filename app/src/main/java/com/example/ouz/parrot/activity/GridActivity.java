@@ -36,7 +36,6 @@ public class GridActivity extends AppCompatActivity {
     TextView txtBatarya;
     Button yukari,asagi,sol,sag,btnAcil,uc;
     Dialog yukaripopup,asagipopup,solpopup,sagpopup,donmepopup;
-    EditText EtYukari,EtYukari2,EtYukari3,EtAsagi,EtSol,EtSag,EtSag2;
     public static RelativeLayout gorev3bg;
     public static int kontrol =0;
     public static ARDiscoveryDeviceService service;
@@ -67,13 +66,6 @@ public class GridActivity extends AppCompatActivity {
         btnAcil=findViewById(R.id.btnAcil);
         uc=findViewById(R.id.uc);
 
-
-        EtYukari=findViewById(R.id.Etyukari);
-        EtYukari2=findViewById(R.id.EtYukari2);
-        EtYukari3=findViewById(R.id.EtYukari3);
-        EtSol=findViewById(R.id.EtSol);
-        EtSag=findViewById(R.id.Etsag);
-        EtSag2=findViewById(R.id.EtSag2);
 
         yukaripopup=new Dialog(this);
         asagipopup=new Dialog(this);

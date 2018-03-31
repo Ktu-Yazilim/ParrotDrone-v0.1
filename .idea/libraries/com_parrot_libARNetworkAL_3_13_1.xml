@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.parrot:libARNetworkAL-3.13.1">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libARNetworkAL-3.13.1.aar/88126497a29bd00fcf94f0552a76845f/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libARNetworkAL-3.13.1.aar/88126497a29bd00fcf94f0552a76845f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libARNetworkAL-3.13.1.aar/d5f85edcabb41c035110e642c32b3c30/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libARNetworkAL-3.13.1.aar/d5f85edcabb41c035110e642c32b3c30/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
