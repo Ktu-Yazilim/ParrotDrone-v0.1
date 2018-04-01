@@ -122,7 +122,7 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:layout_marginBottom="0dp"
-        android:background="#eeeee0"
+        android:background="@color/colorPrimaryDark"
         android:gravity="center"
         android:orientation="horizontal">
 
@@ -135,7 +135,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:text="Şarj: "
-            android:textColor="#000"
+            android:textColor="@color/white"
             android:textSize="20dp" />
 
         <ImageView
@@ -171,7 +171,7 @@
             android:layout_width="35dp"
             android:layout_height="50dp"
             android:layout_weight="1"
-            android:background="#000"
+            android:background="@drawable/buttonstyle"
             android:text="Kalk"
             android:textColor="@color/white" />
 
